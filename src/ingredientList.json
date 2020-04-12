@@ -1,0 +1,56 @@
+[
+    {
+        "ingredientId": 1,
+        "ingredientName": "coffee",
+        "costPerUnit": 0.75,
+        "unitsInStock": 17
+    },
+    {
+        "ingredientId": 2,
+        "ingredientName": "decafCoffee",
+        "costPerUnit": 0.75,
+        "unitsInStock": 16
+    },
+    {
+        "ingredientId": 3,
+        "ingredientName": "sugar",
+        "costPerUnit": 0.25,
+        "unitsInStock": 10
+    },
+    {
+        "ingredientId": 4,
+        "ingredientName": "espresso",
+        "costPerUnit": 1,
+        "unitsInStock": 10
+    },
+    {
+        "ingredientId": 5,
+        "ingredientName": "cream",
+        "costPerUnit": 0.25,
+        "unitsInStock": 10
+    },
+    {
+        "ingredientId": 6,
+        "ingredientName": "steamedMilk",
+        "costPerUnit": 0.35,
+        "unitsInStock": 14
+    },
+    {
+        "ingredientId": 7,
+        "ingredientName": "cocoa",
+        "costPerUnit": 0.15,
+        "unitsInStock": 7
+    },
+    {
+        "ingredientId": 8,
+        "ingredientName": "whippedCream",
+        "costPerUnit": 0.35,
+        "unitsInStock": 10
+    },
+    {
+        "ingredientId": 9,
+        "ingredientName": "foamedMilk",
+        "costPerUnit": 0.35,
+        "unitsInStock": 10
+    }
+]

@@ -1,0 +1,113 @@
+[
+   {
+      "drinkId": 1,
+      "drinkName": "Regular Coffee",
+      "totalCostDrink": 0,
+      "requiredIngredientUnits": [
+         {
+            "name": "coffee",
+            "units": 3
+         },
+         {
+            "name": "cream",
+            "units": 1
+         },
+         {
+            "name": "sugar",
+            "units": 1
+         }
+      ]
+   },
+   {
+      "drinkId": 2,
+      "drinkName": "Decaf Coffee",
+      "totalCostDrink": 0,
+      "requiredIngredientUnits": [
+         {
+            "name": "sugar",
+            "units": 1
+         },
+         {
+            "name": "cream",
+            "units": 1
+         },
+         {
+            "name": "decafCoffee",
+            "units": 3
+         }
+      ]
+   },
+   {
+      "drinkId": 3,
+      "drinkName": "Caffe Latte",
+      "totalCostDrink": 0,
+      "requiredIngredientUnits": [
+         {
+            "name": "espresso",
+            "units": 2
+         },
+         {
+            "name": "steamedMilk",
+            "units": 1
+         },
+         {
+            "name": "sugar",
+            "units": 1
+         }
+      ]
+   },
+   {
+      "drinkId": 4,
+      "drinkName": "Caffe Americano",
+      "totalCostDrink": 0,
+      "requiredIngredientUnits": [
+         {
+            "name": "espresso",
+            "units": 3
+         }
+      ]
+   },
+   {
+      "drinkId": 5,
+      "drinkName": "Caffe Mocha",
+      "totalCostDrink": 0,
+      "requiredIngredientUnits": [
+         {
+            "name": "espresso",
+            "units": 1
+         },
+         {
+            "name": "steamedMilk",
+            "units": 1
+         },
+         {
+            "name": "cocoa",
+            "units": 1
+         },
+         {
+            "name": "whippedCream",
+            "units": 1
+         }
+      ]
+   },
+   {
+      "drinkId": 6,
+      "drinkName": "Capuccino",
+      "totalCostDrink": 0,
+      "requiredIngredientUnits": [
+         {
+            "name": "espresso",
+            "units": 2
+         },
+         {
+            "name": "steamedMilk",
+            "units": 1
+         },
+         {
+            "name": "foamedMilk",
+            "units": 1
+         }
+      
+      ]
+   }
+]
